@@ -1,2 +1,2 @@
-# selenium_languages_interface
+# Selenium languages interface
 Решение задания "Запуск автотестов для разных языков интерфейса" из курса Автоматизация тестирования с помощью Selenium и Python
